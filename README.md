@@ -39,10 +39,10 @@ This 3-tier rule engine app, built with Next.js, Node.js, and MongoDB, allows us
 
 ## Screenshots
 
-![Screenshot 1](images/s1.png)
-![Screenshot 2](images/s2.png)
-![Screenshot 3](images/s3.png)
-![Screenshot 4](images/s4.png)
+![Screenshot 1](/frontend/images/s1.png)
+![Screenshot 2](/frontend/images/s2.png)
+![Screenshot 3](/frontend/images/s3.png)
+![Screenshot 4](/frontend/images/s4.png)
 
 ## Environment Variables
 
